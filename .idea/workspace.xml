@@ -42,7 +42,7 @@
     </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="test" />
+        <entry key="$PROJECT_DIR$" value="deploy" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -149,7 +149,7 @@
       <workItem from="1645959108132" duration="15886000" />
       <workItem from="1646081447359" duration="20744000" />
       <workItem from="1646238434645" duration="4920000" />
-      <workItem from="1646306670876" duration="22219000" />
+      <workItem from="1646306670876" duration="22526000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1646050060278</created>
